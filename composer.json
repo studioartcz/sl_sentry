@@ -1,0 +1,11 @@
+{
+  "name": "studioartcz/sl_sentry",
+  "type": "library",
+  "description": "Sentry.io for Sunlight CMS",
+  "homepage": "https://www.studioart.cz",
+  "require": {
+    "php": ">=5.6.0",
+    "sentry/sentry": "^1.7",
+    "studioartcz/sl_composer": "dev-master"
+  }
+}
